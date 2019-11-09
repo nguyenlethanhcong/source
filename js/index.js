@@ -21,7 +21,7 @@ const second = 1000,
   hour = minute * 60,
   day = hour * 24;
 
-let countDown = new Date('February 1, 2020 00:00:00').getTime();
+let countDown = new Date('November 10, 2019 08:00:00').getTime();
 x = setInterval(function() {
   let now = new Date().getTime(),
     distance = countDown - now;
@@ -39,7 +39,7 @@ var w = c.width = window.innerWidth,
   hh = h / 2,
 
   opts = {
-    strings: ['Chúc mừng sinh nhật', 'Mừng em tròn 18 tuổi'],
+    strings: ['nice to meet you', 'Sin'],
     charSize: 30,
     charSpacing: 35,
     lineHeight: 40,
