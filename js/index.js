@@ -39,7 +39,7 @@ var w = c.width = window.innerWidth,
   hh = h / 2,
 
   opts = {
-    strings: ['nice to meet you', 'Sin'],
+    strings: ['HAPPY', 'BIRTHDAY', 'RAIN'],
     charSize: 30,
     charSpacing: 35,
     lineHeight: 40,
